@@ -1,0 +1,16 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@eversdk/core": "^1.42.1",
+    "@eversdk/lib-node": "^1.42.1"
+  }
+}
